@@ -52,6 +52,10 @@ pre[class*="language-"] {
   text-decoration: none;
 }
 
+.json_viewer.arrow-up {
+  -webkit-transform:rotate(90deg);
+}
+
 .json_viewer.arrow-down,
 .json_viewer.arrow-up {
   position: absolute;

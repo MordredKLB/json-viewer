@@ -6,6 +6,7 @@
 
 .token.key {
 	color: #F92672;
+	font-weight: bold;
 }
 
 .json_viewer.gear {
